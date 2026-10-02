@@ -4,8 +4,6 @@ A library management system exposed to an AI agent through the **Model Context P
 
 University project for the *Integração de Sistemas* (Systems Integration) course, Computer Engineering (LEI), University of Coimbra.
 
-<!-- TODO: add a GIF or screenshot of a chat where the agent uses the tools (e.g. "add a book by an existing author") -->
-
 ## What is MCP?
 
 The [Model Context Protocol](https://modelcontextprotocol.io) is an open standard that lets LLM applications connect to external tools and data sources in a uniform way. Here, the MCP server publishes the library operations, and the agent discovers and calls them on its own.
