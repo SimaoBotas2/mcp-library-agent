@@ -2,7 +2,7 @@
 
 A library management system exposed to an AI agent through the **Model Context Protocol (MCP)**. A REST API manages books and authors, an MCP server wraps the same business layer as tools, resources and a prompt, and a LangChain agent powered by Google Gemini uses those tools to answer natural-language requests from a simple web chat.
 
-University project for the *Integração de Sistemas* (Systems Integration) course, Computer Engineering (LEI), University of Coimbra.
+University project for the *Integração de Sistemas* (Systems Integration) course, MSc in Software Engineering (MEI), University of Coimbra.
 
 ## What is MCP?
 
@@ -92,4 +92,4 @@ Then open `webapp.html` in the browser. The SQLite database (`library.db`) is cr
 
 ## Authors
 
-Simão Carvalho, André Rodrigues · University of Coimbra · Computer Engineering · 2026
+Simão Carvalho, André Rodrigues · University of Coimbra · MSc in Software Engineering · 2026
